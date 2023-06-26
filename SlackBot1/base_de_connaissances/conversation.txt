@@ -1,0 +1,60 @@
+
+U04EUHRK56X: Hello,
+Est-ce que Loccioni regarde bien le quality status lorsque l'on réintroduit ? Car on a plusieurs pièces réintroduites alors que des OP sont NOK ..
+U04EUNJGB3L: A checker. Le FB spc réintroduction donne en sortie le statut qualité. 
+Si nok, il devrait y avoir un message d'erreur et bloquer le tiroir. <@U04G0MV4JSW> Le test a été fait ?
+U04EUHRK56X: Oui mais si non interprété le banc reprend la pièce et on se retrouve avec des pièces NOK en déclaration de prod ..
+U04EUNJGB3L: En phase, si nok a la réintroduction on ne devrait pas pouvoir réintroduire.
+U04G0MV4JSW: On a test, les résultats sont OK
+U04EUHRK56X: Tu avais une MEL avec une OP NOK sous la main ? Et elle n'est pas rentrée ? Quid d'une MEL avec seulement un SPC NOK ?
+
+U04FJD4613J: Défauts MOM sur les deux banc EOL perturbent la prod
+U04EUNJGB3L: La pile était de nouveau à 2 :thinking_face: 
+Je l'ai repassé à 8 mais il faut mettre en valeur par défaut 8
+
+U04G0MV4JSW: Je ne comprends pas, c'est qui a changé la valeur de 8 à 2
+
+U04EUHRK56X: Envoi MOM désactivé sur les bancs !!!!
+
+U04EUHRK56X: :warning: MOM Désactivé sur le banc 1 depuis hier soir, donc pas de données banc remontées sur plusieurs MEL et manque de RO :disappointed:
+MOM réactivé, et les MEL sont à repasser au banc ..
+
+U04EUHRK56X: J'ai noté dans le Forms, mais en fait il serait bien de virer la désactivation du MOM de l'IHM.
+Car pour passer des MEL de Test ils peuvent prendre de vieux tracking ID NOK et les mettre en Retest s'il faut
+U04EUHRK56X: <@U04ERQ4UZKP> <@U04G5QW895J>
+U04EUHRK56X: De plus bientôt côté MOM il y aura les tracking ID de pièces DAE et de MAP intégrés :slightly_smiling_face:
+U04EUHRK56X: <@U04G0MV4JSW> les solutions imaginées ici
+
+U04G0MV4JSW: LOUIS DELAHAYE  qui est désactivé le MOM
+U04EUHRK56X: On ne cherche pas des noms, mais des solutions, soyons constructifs !
+U04EUHRK56X: De plus tu n'as pas répondu au sujet mais créé un autre sujet ..
+U04G0MV4JSW: Donne moi une solution
+U04EUHRK56X: cf mes réponses dans le message ci dessus :wink:
+U04G0MV4JSW: Je ne le vois pas
+
+U04R16WDTHS: Des défauts MOM fantômes au niveau du banc1  :  réception de l'OP450.08 avant OP450.07
+Que après 2/3 relances que ça s'envoie en ordre..
+U04EUNJGB3L: Il y a eu des modif loccioni?
+U04FMHNDN6S: ce n'est pas simplement des dépannage qui sont fait après sortie
+U04FMHNDN6S: OP470.07*
+U04G0MV4JSW: Non :zany_face:
+
+U04EUHRK56X: Appel Astreinte, Reiloffer en rade
+Il y a avait 8 défauts sur le local server
+J'ai cliqué dessus : 8 services en stopped
+J'ai redémarré les 8 : tout est OK
+U04EUHRK56X: Je n'ai pas la photo de défaut mais voici l'état quand cela fonctionne
+U04EUHRK56X: <@U04G0MV4JSW> si tu as une idée de ce à quoi cela correspond ?
+<@U04EE6KJUT1> peut-être une petite investigation IAN à faire, mes compétences sur le domaine sont limitées
+U04EE6KJUT1: Alors la à distance c'est chaud ! C'est reparti ?
+U04EUHRK56X: Oui oui mais heureusement que je suis encore sur site :wink:
+Je parlais d'une analyse à froid plus tard sur le PC reiloffer
+U04R16WDTHS: Si celà arrive quand on est à distance ?
+U04EUHRK56X: J'allais poser la question,
+Il faut soitun modop opérateur
+Soit qu'on ait accès au pc en vpn
+
+U04FJD4613J: Défaut MOM sur le banc. Qui arrive à 8h pour aller voir ?
+U04FJD4613J: Guy-Alexis est sur la route mais il doit aller à une réunion à 8h15
+
+U04FMHNDN6S: Niveau qualité on se demande si les MEL repassé avant hier aux bancs (datant de MOM Phase 1) ont été suivi côté MOM car le trackingID est présent sur l'IHM Loccioni mais aucun moyen de retrouver la traça du nouveau passage des pièces par tous les id possibles. Comment les CI ont fait passer les pièces ?

@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "da2216fd-df7c-4a68-ab10-961ee0836e90",
+        "type": "message",
+        "text": "Niveau qualité on se demande si les MEL repassé avant hier aux bancs (datant de MOM Phase 1) ont été suivi côté MOM car le trackingID est présent sur l'IHM Loccioni mais aucun moyen de retrouver la traça du nouveau passage des pièces par tous les id possibles. Comment les CI ont fait passer les pièces ?",
+        "user": "U04FMHNDN6S",
+        "ts": "1686886317.503699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+U7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Niveau qualité on se demande si les MEL repassé avant hier aux bancs (datant de MOM Phase 1) ont été suivi côté MOM car le trackingID est présent sur l'IHM Loccioni mais aucun moyen de retrouver la traça du nouveau passage des pièces par tous les id possibles. Comment les CI ont fait passer les pièces ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04EN3EG7DL",
+        "user_team": "T04EN3EG7DL",
+        "source_team": "T04EN3EG7DL",
+        "user_profile": {
+            "avatar_hash": "58018231578e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-19\/4551638491329_58018231578e84189771_72.jpg",
+            "first_name": "Paul",
+            "real_name": "Paul LOSSON",
+            "display_name": "Paul L.",
+            "team": "T04EN3EG7DL",
+            "name": "paul.losson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04FJD4613J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

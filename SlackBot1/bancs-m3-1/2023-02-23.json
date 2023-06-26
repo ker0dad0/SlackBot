@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "f19506b5-12bc-440e-b163-eae01814bf14",
+        "type": "message",
+        "text": ":warning: MOM Désactivé sur le banc 1 depuis hier soir, donc pas de données banc remontées sur plusieurs MEL et manque de RO :disappointed:\nMOM réactivé, et les MEL sont à repasser au banc ..",
+        "user": "U04EUHRK56X",
+        "ts": "1677225590.321169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XeRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "warning",
+                                "unicode": "26a0-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " MOM Désactivé sur le banc 1 depuis hier soir, donc pas de données banc remontées sur plusieurs MEL et manque de RO "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMOM réactivé, et les MEL sont à repasser au banc .."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T04EN3EG7DL",
+        "user_team": "T04EN3EG7DL",
+        "source_team": "T04EN3EG7DL",
+        "user_profile": {
+            "avatar_hash": "ecd7e1a0e35a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-12\/4517434249665_ecd7e1a0e35a2296d375_72.jpg",
+            "first_name": "Guy-Alexis",
+            "real_name": "Guy-Alexis GENETAY",
+            "display_name": "Guy-Alexis G.",
+            "team": "T04EN3EG7DL",
+            "name": "guyalexis.genetay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677225590.321169",
+        "reply_count": 4,
+        "reply_users_count": 1,
+        "latest_reply": "1677226103.102619",
+        "reply_users": [
+            "U04EUHRK56X"
+        ],
+        "replies": [
+            {
+                "user": "U04EUHRK56X",
+                "ts": "1677225660.501679"
+            },
+            {
+                "user": "U04EUHRK56X",
+                "ts": "1677225681.741829"
+            },
+            {
+                "user": "U04EUHRK56X",
+                "ts": "1677226092.879069"
+            },
+            {
+                "user": "U04EUHRK56X",
+                "ts": "1677226103.102619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677226103.102619",
+        "reactions": [
+            {
+                "name": "triumph",
+                "users": [
+                    "U04G0MV4JSW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
